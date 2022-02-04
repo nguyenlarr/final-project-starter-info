@@ -6,10 +6,9 @@ Code name: Project Vax (idk lol)
 
 Winter 2022
 
+
 **Authors:**
-
 Emma Bacarra - ebacarra@uw.edu
-
 Jayden
 
 Larry
