@@ -1,18 +1,25 @@
 # Vaccine Effectiveness Project Proposal
 
 **Project Title:** The Impact of Vaccines
+
 Code name: Project Vax (idk lol)
+
 Winter 2022
 
 **Authors:**
+
 Emma Bacarra - ebacarra@uw.edu
+
 Jayden
+
 Larry
+
 Parker
 
 **Affiliation:** INFO-201: Technical Foundations of Informatics - The Information School - University of Washington
 
 <hr />
+
 ## Abstract
 - main question: how much of an impact do vaccines create on public health in the U.S.?
   - this question is important because “getting vaccinated lowers the risk of getting/spreading the virus, prevent serious illness and death, and teaches your immune system to create an antibody response” (via CDC)
@@ -57,4 +64,5 @@ Possible harms/benefits: bring awareness, help people do their part
 ## References
 
 <hr />
+
 # Appendix A: Questions
