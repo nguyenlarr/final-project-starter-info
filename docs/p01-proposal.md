@@ -2,7 +2,7 @@
 
 **Project Title:** The Impact of Vaccines
 
-Code name: Project Vax (idk lol)
+Code name: Project Vax 
 
 Winter 2022
 
@@ -36,14 +36,10 @@ Parker
 Vaccinations, spread prevention, public health, mortality rate,
 
 ## 1.0 Introduction
-Project Vax describes the impact of vaccinations on public health through datasets gathered from (datasets).
+The dataset(s) we are analyzing shows us the rate of vaccinations throughout the world and the mortality rate among those vaccinated and unvaccinated due to COVID-19. Our group was interested in exploring the effectiveness the COVID-19 vaccines have on the public health  whether the statistics support or oppose the use of the COVID-19 vaccines in the fight against the virus and its variants. The outbreak of the COVID-19 pandemic has greatly disrupted modern life for the past few years these vaccines can be the key to normality in the near future.
 
 ## 2.0 Design Situation
-Project framing:
-Human values:
-Direct stakeholders: the public, anti-vaxers
-Indirect stakeholders:
-Possible harms/benefits: bring awareness, help people do their part
+Our team's topic of concern revolves around COVID-19 and its relationship concerning vaccinated people, unvaccinated people, and how these traits have a role in the mortality rate that has surged since the pandemic has started. The concern among vaccinations stems from the human values of mutual empathy and love for your common man. The pandemic has greatly impacted our lives individually and we as individuals may have selfish reasons to end the global pandemic; the most common reason the general public pushes for a higher vaccination rate is because of herd immunity. In order to protect those vulnerable and unable to be vaccinated, we strive to get every abled body vaccinated. The direct stakeholders, those who will directly interact with **Project Vax** are policy makers, world leaders, researchers, and educators who may pass on the information presented in order to educate individuals and enact laws and policies that allow easier access to vaccinations and the science behind them and their effectiveness. Their medical advising directly affects the success or failure to the response of the pandemic. The indirect stakeholders are those who did not directly interact with the project firsthand but can feel the effects from those who did. Indirect stakeholders may include the general public who are subject to laws and regulations placed upon them by policy makers and government officials who have directly interacted with **Project Vax**. They may also include individuals who are at risk of contracting COVID-19 and unable to vaccinate themselves due to preexisting conditions or individuals who refuse to be vaccinated and are being educated by those who are. An example of how risky avoiding the COVID-19 vaccine can be seen in Israel, where 12% of Israels over 60 are unvaccinated and they account for 43% of deaths in their age group (haaretz, 2022). Lastly, these may include essential workers who are subject to regulations that may require them to be vaccinated or risk losing their jobs. Essential workers are put at risk of exposure and close contact in their jobs everyday, and are in even more danger if the individuals they interact with are not doing their part to be cautious. The harms of **Project Vax**  are the limitations of the existing data and its accuracy, the information can be biased to service political motivations that are promptly against vaccines. However, the benefits of our project heavily outweigh the harms. With the information present in **Project Vax**; national, state and local governments are better able to assess the situation of the global pandemic and enact policies and regulations accordingly. The hope is for representatives in the United States’ lowest vaccinated states to enact change as deaths from the virus are highest among low vaccinated states (NBCNews, 2022). This can also include the expansion of free or affordable COVID-19 vaccines that are made accessible to the general public. 
 
 ## 3.0 Research Questions
 
