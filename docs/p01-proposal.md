@@ -60,20 +60,19 @@ Our group expects that policymakers and world leaders will utilize the data pres
 ## 6.0 Limitations
 Our team acknowledges that there are certain limitations to this research project, such as access to accurate information. Because we cannot collect data on a scale this large, we are limited to the data provided by researchers who publish their records on the Internet. Moreover, the research from these studies that get published may not be inclusive of all demographics in an entire population; in order to classify that an individual has been vaccinated or tested positive for COVID-19, they had to have access to a testing site and proper healthcare provisions. In our country, there are certain demographics in our population (especially low-income communities of color) that do not have access to proper provisions, which means that the data we find on the internet won’t include affected individuals in those communities. There are also additional factors that contribute to the number of vaccinated or unvaccinated individuals in a population, such as medical exemptions due to allergies; however, the CDC has explicitly stated that for those with underlying medical conditions, the COVID-19 vaccination is safe to receive. 
 
-
-
-- information is only tracked/recorded if it is given
-- the number of vaccinated people is impacted by more than anti-vaxxers:
-  - generally speaking:
-    - religious exemption or severe allergies to vaccine ingredients (i.e. medical exemption) (via [CDC](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/recommendations/essentialworker/workplace-vaccination-program.html))
-    - list of who shouldn’t take certain vaccines [here](https://www.cdc.gov/vaccines/vpd/should-not-vacc.html)
-  - covid is safe for people with [underlying medical conditions](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/recommendations/underlying-conditions.html?s_cid=10485:who%20should%20not%20take%20the%20covid%20vaccine:sem.ga:p:RG:GM:gen:PTN:FY21)
-- missing values or inconsistencies in the data used
-
 ## Acknowledgements
 
 ## References
+Hanage, William P., et al. “COVID-19: US Federal Accountability for Entry, Spread, and Inequities—Lessons for the Future.” European Journal of Epidemiology, vol. 35, no. 11, Nov. 2020, pp. 995–1006, link.springer.com/article/10.1007/s10654-020-00689-2#citeas, 10.1007/s10654-020-00689-2.
+3
+Bove, Tristan. “Fully Vaccinated People Are 93% Less Likely to Die of COVID Compared to Unvaccinated People.” Fortune, Fortune, 4 Feb. 2022, fortune.com/2022/02/04/fully-vaccinated-93-percent-less-likely-covid-death-compared-unvaccinated/.
 
-<hr />
+‌Chiwaya, Nigel. “900,000 Dead: Covid Deaths Are Surging in Low-Vaccination States.” NBC News, NBC News, 4 Feb. 2022, www.nbcnews.com/news/us-news/900-000-dead-covid-deaths-are-surging-low-vaccination-states-n1288586.
+
+https://www.kaggle.com/sinakaraji/covid-vaccination-vs-death
+https://fortune.com/2022/02/04/fully-vaccinated-93-percent-less-likely-covid-death-compared-unvaccinated/
+https://www.nbcnews.com/news/us-news/900-000-dead-covid-deaths-are-surging-low-vaccination-states-n1288586
+https://www.haaretz.com/israel-news/.premium-omicron-in-israel-unvaccinated-die-in-much-higher-numbers-1.10586137
+
 
 ## Appendix A: Questions
