@@ -13,7 +13,7 @@ Emma Bacarra - ebacarra@uw.edu
 
 Jayden
 
-Larry
+Larry Nguyen - nguyenla@uw.edu
 
 Parker
 
@@ -48,8 +48,10 @@ Possible harms/benefits: bring awareness, help people do their part
 ## 3.0 Research Questions
 
 ## 4.0 The Dataset
+The dataset we have chosen to use for our project _The Impact of Vaccines_, compares the [covid-19 vaccination rate vs the mortality rate across the world] (https://www.kaggle.com/sinakaraji/covid-vaccination-vs-death). It observes the outbreak that we have all witnessed and looks at the positives around the vaccination that has surfaced. The reason why this dataset was generated was to investigate the impact of the coronavirus vaccine on the covid-19 mortality. This data file exceeds the amount of 200 observations and is a combination of a total of 3 different datasets. It represents a majority of each country around the world and keeps track of their total vaccinations, number of people vaccinated, people fully vaccinated, new deaths, the population count, and the ratio. The data was collected by Sina Karaji and it was updated last about a month ago meaning that it is up to date, the reason why he created the dataset was because he noticed how many deaths have been caused since the outbreak of the coronavirus, so he wanted to look at the impact that the vaccination has had. By doing this he is able to show people the positive impact of the vaccination and persuade the rest of the world to get vaccinated. Those who are likely to be benefited from the data could be companies such as the CDC who are looking to view datasets that could help them combat the virus, but this could also interest people who are trying to convince anti-vaxxers that vaccinations are helpful and the public who wants to see the positive effect that the vaccine has had.
 
 ## 5.0 Expected Implications
+Our group expects that policymakers and world leaders will utilize the data presented by **Project Vax** enact laws ensuring their citizens are provided with enough vaccinations to reach _herd immunity_  (when a large portion of the population becomes immune to a disease, it makes the spread of the disease from one individual to another very unlikely. As a result, the whole community is protected. This can be done through using the financial resources and size of their national governments to purchase vaccines in bulk quantities and at a reduced price. Policymakers must also ensure that their vaccines are accessible to their citizens, directionally and financially. We also expect **Project Vax** will be utilized as an educational aid to convince those who do not believe in the effectiveness of the COVID-19 vaccines. 
 
 ## 6.0 Limitations
 - information is only tracked/recorded if it is given
