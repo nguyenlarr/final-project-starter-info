@@ -11,7 +11,7 @@ Winter 2022
 
 Emma Bacarra - ebacarra@uw.edu
 
-Jayden
+Jayden Set - jset@uw.edu
 
 Larry Nguyen - nguyenla@uw.edu
 
